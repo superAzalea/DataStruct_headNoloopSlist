@@ -1,0 +1,2 @@
+test.o: test.c slist_adt.h
+head_noloop_slist_adt.o: head_noloop_slist_adt.c slist_adt.h
